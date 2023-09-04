@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Alberto Flores 👋
 
-<!--
-**Alberto-Ignacio-Flores-Mendoza/Alberto-Ignacio-Flores-Mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Front-End Developer. I enjoy working on software, and I'm always looking for opportunities to learn and grow.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript
+- css/html
+
+## 🌱 I'm Currently Learning
+
+- Node.js
+- Express.js
+- MongoDb
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/alberto-ignacio-flores-mendoza-a36860283/
+- Email: AlbertoIFM64@gmail.com
+
+## My Portfolio
+- https://64f66becf28bfb301720c26f--quiet-banoffee-b94546.netlify.app/
+
+
+
+Thanks for stopping by!
+
